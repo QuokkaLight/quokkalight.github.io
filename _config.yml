@@ -2,7 +2,7 @@
 title: QuokkaLight
 email: quokkalight@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  We're a French CTF Team. Here you'll find our writeups and info about our projects. :)
+  We're a French CTF Team. Here you'll find our write-ups and info about our projects. :)
 baseurl: "" # the subpath of your site, e.g. /blog/
 imgurl: "/images"
 url: "http://quokkalight.github.io" # the base hostname & protocol for your site
