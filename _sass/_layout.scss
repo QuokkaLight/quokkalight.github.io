@@ -212,9 +212,14 @@
     background-size: cover;
 }
 
+.logo {
+
+}
+
 /**
  * clock css
  */
+
 /*.seconds {
     width: 40px;
     height: 40px;
@@ -253,6 +258,16 @@
     border-radius: 50%;
     background-color: rgba(181, 181, 181, 0.4);
 }*/
+
+.logo {
+    float: left;
+    max-width: 940px;
+    padding: 0 10px;
+    margin: 0 auto;
+    text-align: right;
+    position: relative;
+    height: 100%;
+}
 
 .site-name {
     max-width: 940px;
