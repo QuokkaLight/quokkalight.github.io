@@ -16,7 +16,10 @@
         <div class="site-name__inner">
           <div class="name">{{ site.title }}</div>
           <div class="desc">{{site.description}}</div>
-          <div class="btn">Blog</div>
+          <div class="btn btn-scroll">Blog</div>
+          <div class="btn">Twitter</div>
+          <div class="btn">Github</div>
+          <div class="btn">CTF Time</div>
         </div>
       </div>
     </div>
@@ -68,7 +71,7 @@
   //   hoursSel.innerHTML = hours;
   // }, 1000);
 
-  var btnSel = document.querySelector('.btn');
+  var btnSel = document.querySelector('.btn-scroll');
   var header = document.getElementsByTagName('header')[0];
 
   btnSel.addEventListener("click", function() {
