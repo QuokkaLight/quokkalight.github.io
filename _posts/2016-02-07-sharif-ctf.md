@@ -12,3 +12,16 @@ complete a few though. You can find the writeups for the challenges we completed
 
 ## Write-ups
 
+ * Crypto
+   * [Rail Fence Cipher](https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/crypto/Rail_Fence_Cipher.md)
+ * Reverse
+   * [dMd](https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/reverse/dMd.md)
+ * Web
+   * [PhotoBlog](https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/web/PhotoBlog.md)
+ * Pwn
+   * [SQL](https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/pwn/SQL.md)
+ * Forensics
+   * [Kick Tort Teen](https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/forensics/Kick_Tort_Teen.md)
+ * Misc
+   * [Sec-Coding 1](https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/misc/Sec-Coding_1.md)
+   * [Sec-Coding 2](https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/misc/Sec-Coding_2.md)
