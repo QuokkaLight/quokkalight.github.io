@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QuokkaLight</title>
+    <description>We&#39;re a French CTF Team. Here you&#39;ll find our write-ups and info about our projects. :)
+</description>
+    <link>http://quokkalight.github.io/</link>
+    <atom:link href="http://quokkalight.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Feb 2016 14:58:29 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 14:58:29 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Sharif University CTF 2016 - Writeups</title>
+        <description>&lt;p&gt;For our first CTF, we finished 124th with 800 points (1437 teams in total and 448 teams who flagged at least one challenge).&lt;/p&gt;
+
+&lt;p&gt;There were some really interesting and challenging tasks. We only managed to
+complete a few though. You can find the writeups for the challenges we completed below.&lt;/p&gt;
+
+&lt;h2 id=&quot;write-ups&quot;&gt;Write-ups&lt;/h2&gt;
+
+</description>
+        <pubDate>Sun, 07 Feb 2016 14:57:42 +0100</pubDate>
+        <link>http://quokkalight.github.io/ctf/writeups/sharif/2016/02/07/sharif-ctf.html</link>
+        <guid isPermaLink="true">http://quokkalight.github.io/ctf/writeups/sharif/2016/02/07/sharif-ctf.html</guid>
+        
+        
+        <category>ctf</category>
+        
+        <category>writeups</category>
+        
+        <category>sharif</category>
+        
+      </item>
+    
+  </channel>
+</rss>

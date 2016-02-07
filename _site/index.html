@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>QuokkaLight</title>
+  <meta name="description" content="We're a French CTF Team. Here you'll find our write-ups and info about our projects. :)
+">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:600' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://quokkalight.github.io/">
+  <link rel="alternate" type="application/rss+xml" title="QuokkaLight" href="http://quokkalight.github.io/feed.xml" />
+</head>
+
+
+  <body>
+
+    <div class="cover">
+      <div class="logo">
+        <img src="/images/logo.png" />
+      </div>
+      <!-- <div class='hours'></div>
+      <div class='seconds'></div>
+      <div class='minutes'></div> -->
+      <div class="site-name">
+        <div class="site-name__inner">
+          <div class="name">QuokkaLight</div>
+          <div class="desc">We're a French CTF Team. Here you'll find our write-ups and info about our projects. :)
+</div>
+          <div class="btn btn-scroll">Blog</div>
+          <a class="btn" href="https://twitter.com/Quokka_Light">Twitter</a>
+          <a class="btn" href="https://ctftime.org/team/21913">CTF Time</a>
+        </div>
+      </div>
+    </div>
+
+    <header class="site-header">
+
+      <div class="wrapper">
+
+        <nav class="site-nav">
+            
+              
+              <a class="page-link" href="/about/">About</a>
+              
+            
+              
+            
+              
+            
+              
+            
+        </nav>
+      </div>
+    </header>
+    <div class="page-content">
+        <div class="home">
+  <ul class="post-list">
+    
+      <li>
+          <a class="post-link" href="/ctf/writeups/sharif/2016/02/07/sharif-ctf.html">
+            Sharif University CTF 2016 - Writeups
+            <div class="post-meta">Feb 7, 2016</div>
+          </a>
+      </li>
+    
+  </ul>
+</div>
+    </div>
+
+<script>
+  // setInterval(function() {
+  //   var seconds = new Date().getSeconds();
+  //   var sdegree = seconds * 6 + 270;
+  //   seconds = ("0" + seconds).slice(-2);
+  //   var secondSel = document.querySelector(".seconds");
+
+  //   secondSel.style.transform = "rotate(" + sdegree + "deg) translate(160px) rotate(-" + sdegree + "deg)";
+  //   secondSel.innerHTML = seconds;
+
+  //   var minutes = new Date().getMinutes();
+  //   var mdegree = minutes * 6 + 270;
+  //   var minutesSel = document.querySelector(".minutes");
+  //   minutes = ("0" + minutes).slice(-2);
+
+  //   minutesSel.style.transform = "rotate(" + mdegree + "deg) translate(181px) rotate(-" + mdegree + "deg)";
+  //   minutesSel.innerHTML =  minutes;
+
+  //   var hours = new Date().getHours();
+  //   var hoursSel = document.querySelector(".hours");
+
+  //   if (hours > 12) {
+  //     hours = hours - 12;
+  //   }
+
+  //   hours = ("0" + hours).slice(-2);
+
+  //   hoursSel.innerHTML = hours;
+  // }, 1000);
+
+  var btnSel = document.querySelector('.btn-scroll');
+  var header = document.getElementsByTagName('header')[0];
+
+  btnSel.addEventListener("click", function() {
+    header.scrollIntoView();
+  }, false);
+
+</script>
+
+  </body>
+
+</html>
