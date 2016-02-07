@@ -1,4 +1,18 @@
 /**
+ * Custom
+ */
+
+ @media screen and (max-width: 768px) {
+    .logo {
+        left: 0px !important;
+    }
+    .desc {
+        visibility: hidden !important;
+    }
+}
+
+
+/**
  * Site header
  */
 .site-header {
@@ -288,7 +302,7 @@
 }
 
 .site-name__inner .name {
-    font-size: 100px;
+    font-size: 50px;
     font-family: 'Source Sans Pro', sans-serif;
 }
 

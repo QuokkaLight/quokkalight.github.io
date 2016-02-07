@@ -123,6 +123,15 @@ code {
     fill: #828282; }
 
 /**
+ * Custom
+ */
+@media screen and (max-width: 768px) {
+  .logo {
+    left: 0px !important; }
+
+  .desc {
+    visibility: hidden !important; } }
+/**
  * Site header
  */
 .site-header {
@@ -357,7 +366,7 @@ code {
   width: 400px; }
 
 .site-name__inner .name {
-  font-size: 100px;
+  font-size: 50px;
   font-family: 'Source Sans Pro', sans-serif; }
 
 .site-name__inner .desc {
