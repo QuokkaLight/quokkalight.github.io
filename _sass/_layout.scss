@@ -5,9 +5,20 @@
  @media screen and (max-width: 768px) {
     .logo {
         left: 0px !important;
+        top: 100px !important;
     }
     .desc {
         visibility: hidden !important;
+    }
+    .site-name__inner .btn {
+        margin-top: 150px !important;
+    }
+    .name {
+        text-align: center !important;
+            margin-left: 20px !important;
+    }
+    .site-name__inner {
+        top: 100px !important;
     }
 }
 
