@@ -6,9 +6,9 @@
 </description>
     <link>http://quokkalight.github.io/</link>
     <atom:link href="http://quokkalight.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Feb 2016 14:58:29 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 14:58:29 +0100</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 08 Feb 2016 01:01:52 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 01:01:52 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Sharif University CTF 2016 - Writeups</title>
@@ -19,6 +19,39 @@ complete a few though. You can find the writeups for the challenges we completed
 
 &lt;h2 id=&quot;write-ups&quot;&gt;Write-ups&lt;/h2&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Crypto
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/crypto/Rail_Fence_Cipher.md&quot;&gt;Rail Fence Cipher&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reverse
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/reverse/dMd.md&quot;&gt;dMd&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Web
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/web/PhotoBlog.md&quot;&gt;PhotoBlog&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pwn
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/pwn/SQL.md&quot;&gt;SQL&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Forensics
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/forensics/Kick_Tort_Teen.md&quot;&gt;Kick Tort Teen&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Misc
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/misc/Sec-Coding_1.md&quot;&gt;Sec-Coding 1&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/misc/Sec-Coding_2.md&quot;&gt;Sec-Coding 2&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sun, 07 Feb 2016 14:57:42 +0100</pubDate>
         <link>http://quokkalight.github.io/ctf/writeups/sharif/2016/02/07/sharif-ctf.html</link>
