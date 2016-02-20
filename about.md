@@ -14,3 +14,5 @@ QuokkaLight is a French security team focused on Capture The Flag competitions. 
    * Twitter: [https://twitter.com/rainbowlyte](https://twitter.com/rainbowlyte)
 
 This website is dedicated to publishing our write-ups and information about our projects.
+
+We're still looking for other members, if you're interested, you can send a mail to [quokkalight@gmail.com](mailto:quokkalight@gmail.com) or contact us on [Twitter](https://twitter.com/quokkalight).
