@@ -6,13 +6,13 @@
 </description>
     <link>http://quokkalight.github.io/</link>
     <atom:link href="http://quokkalight.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Feb 2016 01:01:52 +0100</pubDate>
-    <lastBuildDate>Mon, 08 Feb 2016 01:01:52 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Mon, 22 Feb 2016 08:16:17 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 08:16:17 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
     
       <item>
         <title>Sharif University CTF 2016 - Writeups</title>
-        <description>&lt;p&gt;For our first CTF, we finished 124th with 800 points (1437 teams in total and 448 teams who flagged at least one challenge).&lt;/p&gt;
+        <description>&lt;p&gt;For our first CTF, we finished 123th with 800 points (out of 447 active teams).&lt;/p&gt;
 
 &lt;p&gt;There were some really interesting and challenging tasks. We only managed to
 complete a few though. You can find the writeups for the challenges we completed below.&lt;/p&gt;
