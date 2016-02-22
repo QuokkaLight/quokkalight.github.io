@@ -6,9 +6,84 @@
 </description>
     <link>http://quokkalight.github.io/</link>
     <atom:link href="http://quokkalight.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Feb 2016 08:16:17 +0100</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 08:16:17 +0100</lastBuildDate>
-    <generator>Jekyll v3.0.2</generator>
+    <pubDate>Mon, 22 Feb 2016 13:36:14 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 13:36:14 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Internetwache CTF 2016 - Write-ups</title>
+        <description>&lt;p&gt;We finished 78th with 1650 points (out of 647 active teams).&lt;/p&gt;
+
+&lt;p&gt;We didn’t manage to flag all the tasks like a lot of teams did (the downside of being only two :P), but we still did ok. 
+There were a lot of different challenges and the CTF was pretty cool overall.&lt;/p&gt;
+
+&lt;p&gt;You can find the write-ups for the challenges we completed below.&lt;/p&gt;
+
+&lt;h2 id=&quot;write-ups-coming-soon&quot;&gt;Write-ups (coming soon)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Misc
+    &lt;ul&gt;
+      &lt;li&gt;Misc50&lt;/li&gt;
+      &lt;li&gt;Misc60&lt;/li&gt;
+      &lt;li&gt;Misc70&lt;/li&gt;
+      &lt;li&gt;Misc80&lt;/li&gt;
+      &lt;li&gt;Misc90&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Web
+    &lt;ul&gt;
+      &lt;li&gt;Web50&lt;/li&gt;
+      &lt;li&gt;Web60&lt;/li&gt;
+      &lt;li&gt;Web70&lt;/li&gt;
+      &lt;li&gt;Web80&lt;/li&gt;
+      &lt;li&gt;Web90&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reversing
+    &lt;ul&gt;
+      &lt;li&gt;Rev50&lt;/li&gt;
+      &lt;li&gt;Rev60&lt;/li&gt;
+      &lt;li&gt;Rev80&lt;/li&gt;
+      &lt;li&gt;Rev90&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Crypto
+    &lt;ul&gt;
+      &lt;li&gt;Crypto50&lt;/li&gt;
+      &lt;li&gt;Crypto90&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Code
+    &lt;ul&gt;
+      &lt;li&gt;Code50&lt;/li&gt;
+      &lt;li&gt;Code60&lt;/li&gt;
+      &lt;li&gt;Code70&lt;/li&gt;
+      &lt;li&gt;Code80&lt;/li&gt;
+      &lt;li&gt;Code80&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exploit
+    &lt;ul&gt;
+      &lt;li&gt;Exploit50&lt;/li&gt;
+      &lt;li&gt;Exploit60&lt;/li&gt;
+      &lt;li&gt;Exploit70&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 22 Feb 2016 09:00:42 +0100</pubDate>
+        <link>http://quokkalight.github.io/ctf/writeups/internetwache/2016/02/22/internetwache-ctf-2016.html</link>
+        <guid isPermaLink="true">http://quokkalight.github.io/ctf/writeups/internetwache/2016/02/22/internetwache-ctf-2016.html</guid>
+        
+        
+        <category>ctf</category>
+        
+        <category>writeups</category>
+        
+        <category>internetwache</category>
+        
+      </item>
     
       <item>
         <title>Sharif University CTF 2016 - Writeups</title>
