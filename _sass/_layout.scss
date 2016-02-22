@@ -20,6 +20,9 @@
     .site-name__inner {
         top: 100px !important;
     }
+    .home  a {
+        font-size:22px !important;
+    }
 }
 
 
@@ -28,10 +31,11 @@
  */
 .site-header {
     font-family: 'Source Sans Pro', sans-serif;
-    min-height: 56px;
+    color: #505050;
+    font-size: 26px;
     max-width: 940px;
     margin: 0 auto;
-    padding: 0 10px;
+    padding: 20px 10px;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -69,7 +73,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    /*padding: $spacing-unit 0;*/
 }
 
 .page-heading {
@@ -107,6 +111,7 @@
     padding: 0px 10px;
     margin: 0 auto;
     margin-bottom: $spacing-unit;
+    margin-top: 100px;
 }
 
 .post-title {
@@ -202,7 +207,7 @@
  * Home
  */
 .home {
-    max-width: 540px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 10px;
 }
@@ -225,11 +230,13 @@
 
 .home .post-meta {
     text-align: right;
+    float: right;
+    margin-top: 20px;
 }
 
 .cover {
     color: rgb(241, 241, 241);
-    height: 100%;
+    height: 85%;
     background: url('../images/cover.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -285,7 +292,7 @@
 }*/
 
 .logo {
-    top: 150px;
+    top: 80px;
     left: 150px;
     float: left;
     max-width: 940px;
