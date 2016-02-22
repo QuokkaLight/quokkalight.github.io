@@ -16,25 +16,25 @@
         <div class="site-name__inner">
           <div class="name">{{ site.title }}</div>
           <div class="desc">{{site.description}}</div>
-          <div class="btn btn-scroll">Blog</div>
+          <a class="btn" href="{{ site.about }}">About</a>
           <a class="btn" href="{{ site.twitter }}">Twitter</a>
           <a class="btn" href="{{ site.ctftime }}">CTF Time</a>
         </div>
       </div>
     </div>
 
-    <header class="site-header">
 
-      <div class="wrapper">
+    <header class="site-header">
+<!--       <div class="wrapper">
 
         <nav class="site-nav">
             {% for page in site.pages %}
-              {% if page.title %}
-              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+              {% if page.title == "About" %}
+                <p>Write-up & project from <a href="https://github.com/QuokkaLight">QuokkaLight Github</a></p>
               {% endif %}
             {% endfor %}
         </nav>
-      </div>
+      </div> -->
     </header>
     <div class="page-content">
         {{ content }}
