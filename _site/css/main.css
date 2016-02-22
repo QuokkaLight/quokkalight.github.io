@@ -150,7 +150,6 @@ code {
  */
 .site-header {
   font-family: 'Source Sans Pro', sans-serif;
-  /*min-height: 56px;*/
   color: #505050;
   font-size: 26px;
   max-width: 940px;
@@ -212,7 +211,8 @@ code {
   max-width: 540px;
   padding: 0px 10px;
   margin: 0 auto;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  margin-top: 100px; }
 
 .post-title {
   font-size: 42px;

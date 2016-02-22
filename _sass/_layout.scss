@@ -31,7 +31,6 @@
  */
 .site-header {
     font-family: 'Source Sans Pro', sans-serif;
-    /*min-height: 56px;*/
     color: #505050;
     font-size: 26px;
     max-width: 940px;
@@ -112,6 +111,7 @@
     padding: 0px 10px;
     margin: 0 auto;
     margin-bottom: $spacing-unit;
+    margin-top: 100px;
 }
 
 .post-title {
