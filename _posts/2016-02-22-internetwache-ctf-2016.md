@@ -12,7 +12,7 @@ There were a lot of different challenges and the CTF was pretty cool overall.
 
 You can find the write-ups for the challenges we completed below.
 
-## Write-ups (coming soon)
+## Write-ups
 
  * Misc
    * [Misc50](https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/misc/misc50.md)
