@@ -6,9 +6,34 @@
 </description>
     <link>http://quokkalight.github.io/</link>
     <atom:link href="http://quokkalight.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Mar 2016 21:28:58 +0100</pubDate>
-    <lastBuildDate>Mon, 21 Mar 2016 21:28:58 +0100</lastBuildDate>
-    <generator>Jekyll v3.0.2</generator>
+    <pubDate>Mon, 21 Mar 2016 22:02:53 +0100</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2016 22:02:53 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>BCTF 2016 - Writeups</title>
+        <description>&lt;p&gt;BCTF was pretty hard, we finished 96th out of 2474 teams (588 active teams).&lt;/p&gt;
+
+&lt;p&gt;We’re eager to read the write-ups of the other teams, hopefully we’ll learn new cool tricks to perform better next time. ;)&lt;/p&gt;
+
+&lt;h2 id=&quot;write-ups&quot;&gt;Write-ups&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/bctf-2016/hsab.md&quot;&gt;hsab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 21 Mar 2016 22:00:42 +0100</pubDate>
+        <link>http://quokkalight.github.io/ctf/writeups/bctf/2016/03/21/bctf-2016.html</link>
+        <guid isPermaLink="true">http://quokkalight.github.io/ctf/writeups/bctf/2016/03/21/bctf-2016.html</guid>
+        
+        
+        <category>ctf</category>
+        
+        <category>writeups</category>
+        
+        <category>bctf</category>
+        
+      </item>
     
       <item>
         <title>Internetwache CTF 2016 - Write-ups</title>
