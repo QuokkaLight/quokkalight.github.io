@@ -6,9 +6,9 @@
 </description>
     <link>http://quokkalight.github.io/</link>
     <atom:link href="http://quokkalight.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Feb 2016 16:15:57 +0100</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 16:15:57 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Mon, 21 Mar 2016 21:28:58 +0100</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2016 21:28:58 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
     
       <item>
         <title>Internetwache CTF 2016 - Write-ups</title>
@@ -19,55 +19,55 @@ There were a lot of different challenges and the CTF was pretty cool overall.&lt
 
 &lt;p&gt;You can find the write-ups for the challenges we completed below.&lt;/p&gt;
 
-&lt;h2 id=&quot;write-ups-coming-soon&quot;&gt;Write-ups (coming soon)&lt;/h2&gt;
+&lt;h2 id=&quot;write-ups&quot;&gt;Write-ups&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Misc
     &lt;ul&gt;
-      &lt;li&gt;Misc50&lt;/li&gt;
-      &lt;li&gt;Misc60&lt;/li&gt;
-      &lt;li&gt;Misc70&lt;/li&gt;
-      &lt;li&gt;Misc80&lt;/li&gt;
-      &lt;li&gt;Misc90&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/misc/misc50.md&quot;&gt;Misc50&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/misc/misc60.md&quot;&gt;Misc60&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/misc/misc70.md&quot;&gt;Misc70&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/misc/misc80.md&quot;&gt;Misc80&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/misc/misc90.md&quot;&gt;Misc90&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Web
     &lt;ul&gt;
-      &lt;li&gt;Web50&lt;/li&gt;
-      &lt;li&gt;Web60&lt;/li&gt;
-      &lt;li&gt;Web70&lt;/li&gt;
-      &lt;li&gt;Web80&lt;/li&gt;
-      &lt;li&gt;Web90&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/web/web50.md&quot;&gt;Web50&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/web/web60.md&quot;&gt;Web60&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/web/web70.md&quot;&gt;Web70&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/web/web80.md&quot;&gt;Web80&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/web/web90.md&quot;&gt;Web90&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Reversing
     &lt;ul&gt;
-      &lt;li&gt;Rev50&lt;/li&gt;
-      &lt;li&gt;Rev60&lt;/li&gt;
-      &lt;li&gt;Rev80&lt;/li&gt;
-      &lt;li&gt;Rev90&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/reverse/rev50.md&quot;&gt;Rev50&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/reverse/rev60.md&quot;&gt;Rev60&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/reverse/rev80.md&quot;&gt;Rev80&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/reverse/rev90.md&quot;&gt;Rev90&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Crypto
     &lt;ul&gt;
-      &lt;li&gt;Crypto50&lt;/li&gt;
-      &lt;li&gt;Crypto90&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/crypto/crypto50.md&quot;&gt;Crypto50&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/crypto/crypto90.md&quot;&gt;Crypto90&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Code
     &lt;ul&gt;
-      &lt;li&gt;Code50&lt;/li&gt;
-      &lt;li&gt;Code60&lt;/li&gt;
-      &lt;li&gt;Code70&lt;/li&gt;
-      &lt;li&gt;Code80&lt;/li&gt;
-      &lt;li&gt;Code80&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/code/code50.md&quot;&gt;Code50&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/code/code60.md&quot;&gt;Code60&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/code/code70.md&quot;&gt;Code70&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/code/code80.md&quot;&gt;Code80&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/code/code90.md&quot;&gt;Code90&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Exploit
     &lt;ul&gt;
-      &lt;li&gt;Exploit50&lt;/li&gt;
-      &lt;li&gt;Exploit60&lt;/li&gt;
-      &lt;li&gt;Exploit70&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/exploit/exp50.md&quot;&gt;Exp50&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/exploit/exp60.md&quot;&gt;Exp60&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/exploit/exp70.md&quot;&gt;Exp70&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
