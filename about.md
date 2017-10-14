@@ -9,10 +9,8 @@ QuokkaLight is a French security team focused on Capture The Flag competitions. 
  * **JohnMcClane**
    * Website: [http://mpgn.fr/](http://mpgn.fr/)
    * Twitter: [https://twitter.com/mpgn_x64](https://twitter.com/mpgn_x64)
- * **RainbowLyte**
-   * Website: [http://rainbowlyte.com](http://rainbowlyte.com)
-   * Twitter: [https://twitter.com/rainbowlyte](https://twitter.com/rainbowlyte)
+ * **0deer**
+   * Website: [http://0deer.ninja](http://0deer.ninja)
+   * Twitter: [https://twitter.com/zerodeer](https://twitter.com/zerodeer)
 
 This website is dedicated to publishing our write-ups and information about our projects.
-
-We're still looking for other members, if you're interested, you can send a mail to [quokkalight@gmail.com](mailto:quokkalight@gmail.com) or contact us on [Twitter](https://twitter.com/quokkalight).
