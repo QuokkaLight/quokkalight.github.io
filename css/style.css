@@ -669,6 +669,17 @@ header {
     color: #fff;
 }
 
+.about ul {
+    list-style-type: disc;
+    font-size: 0.8em;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.about p {
+    text-align: left;
+}
+
 
 /*------------------------------------*\
 	Portfolio
